@@ -1,6 +1,8 @@
-# Pok-mon-Card-Game-
+# Pokémon Card Game 
 
 Este é um projeto de um site interativo que exibe cartas de Pokémon no estilo do anime Yu-Gi-Oh. Cada carta contém informações como nome, imagem, poder e idade do Pokémon.
+
+![Preview do Projeto](./Screenshot_20250401-205917.png)
 
 ## 🚀 Tecnologias Utilizadas
 
@@ -46,7 +48,8 @@ Os Pokémon são criaturas fascinantes que vivem no mundo junto com os humanos. 
 
 Feito com ❤️ por **pandd4**.
 
-## 📜 Licença
+## 📎 Link
+https://codepen.io/Amanda-Santos-the-builder/pen/EaxGwMW
 
-Este projeto está sob a licença MIT. Sinta-se livre para contribuir e aprimorá-lo!
+
 
