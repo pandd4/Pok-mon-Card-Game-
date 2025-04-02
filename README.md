@@ -2,8 +2,6 @@
 
 Este é um projeto de um site interativo que exibe cartas de Pokémon no estilo do anime Yu-Gi-Oh. Cada carta contém informações como nome, imagem, poder e idade do Pokémon.
 
-![Preview do Projeto](./Screenshot_20250401-205917.png)
-
 ## 🚀 Tecnologias Utilizadas
 
 - HTML
